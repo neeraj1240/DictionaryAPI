@@ -3,7 +3,7 @@ const fs = require('fs');
 const app = express();
 const PORT = 3000;
 
-const wordsData = JSON.parse(fs.readFileSync('dictionary data\\dictionary.json', 'utf8'));
+const wordsData = JSON.parse(fs.readFileSync('dictionary.json', 'utf8'));
 
 
 

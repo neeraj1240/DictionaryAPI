@@ -107,12 +107,3 @@ The API is live and deployed on Render. You can access it via the following URL:
 
 
 ---
-
-## Keywords
-
-`Node.js, API, Dictionary API, Random Word, Word Meaning, JavaScript, Express.js, Open Source, Web Development, Backend API, REST API, Word Search, Programming, Tech, Open Source Project, JavaScript API, Coding, Web API`
-
-## Hashtags
-
-`#NodeJS #API #DictionaryAPI #RandomWord #WordMeaning #JavaScript #ExpressJS #OpenSource #WebDevelopment #BackendAPI #RESTAPI #WordSearch #Programming #Tech #OpenSourceProject #JavaScriptAPI #Coding #WebAPI #SoftwareDevelopment #BackendDevelopment #DevCommunity`
-

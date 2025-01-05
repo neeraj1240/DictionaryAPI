@@ -22,7 +22,7 @@ A simple Node.js-based API that provides dictionary functionalities, including w
 
 The API is live and deployed on Render. You can access it via the following URL:
 
-**API Base URL**: https://dictionaryapi-mee0.onrender.com
+**API URL**: https://dictionaryapi-mee0.onrender.com/meaning/dictionary
 
 ---
 

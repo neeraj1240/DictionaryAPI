@@ -18,13 +18,7 @@ A simple Node.js-based API that provides dictionary functionalities, including w
 ---
 
 
-## Live API
 
-The API is live and deployed on Render. You can access it via the following URL:
-
-**API URL**: https://dictionaryapi-mee0.onrender.com/meaning/dictionary
-
----
 
 ## API Endpoints
 
